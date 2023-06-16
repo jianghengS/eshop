@@ -1,4 +1,8 @@
-<script setup lang="ts"></script>
+<script>
+  var _etmc = [];
+  _etmc.push(["setOrgId", "515012316"]);
+  _etmc.push(["trackPageView"]);
+</script>
 <template>
   <div class="container mx-auto 2xl:px-64">
     <div class="grid grid-cols-4 py-10 gap-4">
