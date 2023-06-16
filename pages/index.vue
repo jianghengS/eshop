@@ -1,7 +1,9 @@
-<script>
-  var _etmc = [];
+<script setup lang="ts">
+useHead({
+  script: [{ children: 'var _etmc = [];
   _etmc.push(["setOrgId", "515012316"]);
-  _etmc.push(["trackPageView"]);
+  _etmc.push(["trackPageView"]);' }],
+});
 </script>
 <template>
   <div class="container mx-auto 2xl:px-64">
